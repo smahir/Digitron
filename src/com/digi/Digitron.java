@@ -11,11 +11,11 @@ public class Digitron {
 	}
 	
 	public static void Mnozenje(int a, int b) {
-		
+		System.out.println("a*b = " + a*b);
 	}
 	
 	public static void Dijeljenje(int a, int b) {
-		
+		System.out.println("a/b = " + a/b);
 	}
 	
 	public static void Korjenovanje(int a, int b) {
